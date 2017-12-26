@@ -13,7 +13,7 @@ public class Dog {
 	}
    void voice(){
 	   System.out.println("汪汪汪");
-   }
+	   }
     public static void main(String[] args) {
 		
 	
